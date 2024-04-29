@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "uOr2kD/KgkQKcFWOuSaGqvHmmafJyPGfOSjX3Mp77Zc=",
+  "Source": "Projeto_Web-Lh_Pets_Alunos",
+  "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Projeto_Web-Lh_Pets_Alunos\\wwwroot",
+      "Source": "Projeto_Web-Lh_Pets_Alunos",
+      "ContentRoot": "C:\\Users\\rafac\\OneDrive\\Área de Trabalho\\leit3\\1-SENAI\\back-end\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\rafac\\OneDrive\\Área de Trabalho\\leit3\\1-SENAI\\back-end\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\index.html",
+      "SourceId": "Projeto_Web-Lh_Pets_Alunos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rafac\\OneDrive\\Área de Trabalho\\leit3\\1-SENAI\\back-end\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\rafac\\OneDrive\\Área de Trabalho\\leit3\\1-SENAI\\back-end\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\style.css",
+      "SourceId": "Projeto_Web-Lh_Pets_Alunos",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rafac\\OneDrive\\Área de Trabalho\\leit3\\1-SENAI\\back-end\\Projeto_Web-Lh_Pets_Alunos\\wwwroot\\",
+      "BasePath": "_content/Projeto_Web-Lh_Pets_Alunos",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
