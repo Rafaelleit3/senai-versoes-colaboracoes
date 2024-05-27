@@ -1,0 +1,17 @@
+<body>
+    <h1>{{ btnTitulo }}</h1>
+    <form [formGroup]="clienteForm" (ngSubmit)="submit()" #formDit="ngForm">
+        <input type="hidden" formControlName="id">
+        <div class="input-box">
+            <label for="nome">Nome</label>
+            <input class="form-control" type="text" id="nome" formControlName="nome" required>
+        </div>
+        <div class="input-box">
+            <label for="endereco">Endereço</label>
+            <input class="form-control" type="text" id="endereco" formControlName="endereco" required>
+        </div>
+        <div class="btn-box">
+            <button type="submit" class="btn btn-primary">{{ btnAcao }}</button>
+        </div>
+    </form>
+</body>
